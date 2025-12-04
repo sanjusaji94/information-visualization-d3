@@ -1,0 +1,41 @@
+body {
+    font-family: "Inter", Arial, sans-serif;
+    margin: 30px;
+    background: #fafafa;
+}
+
+h2 {
+    margin-bottom: 15px;
+}
+
+#country-select {
+    padding: 6px;
+    margin-bottom: 20px;
+    font-size: 15px;
+}
+
+svg {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+
+.axis text {
+    font-size: 13px;
+    fill: #555;
+}
+
+.axis path,
+.axis line {
+    stroke: #ccc;
+}
+
+.grid line {
+    stroke: #eee;
+}
+
+.line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2;
+}
