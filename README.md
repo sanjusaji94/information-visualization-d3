@@ -48,3 +48,7 @@ https://github.com/sanjusaji94/information-visualization-d3
 
 ---
 
+##  AI Assistance Disclaimer
+Some parts of this project were implemented with assistance from OpenAI ChatGPT, including help with code structure, debugging, and design suggestions. All code was reviewed, tested, and adapted by me.
+
+---
